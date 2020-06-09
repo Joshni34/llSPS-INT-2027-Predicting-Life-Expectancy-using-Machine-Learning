@@ -1,6 +1,11 @@
 # llSPS-INT-2027-Predicting-Life-Expectancy-using-Machine-Learning
 # Predicting Life Expectancy using Machine Learning
 
+# URL
+Node-red dashboard URL: https://node-red-uyrym.eu-gb.mybluemix.net/ui/#!/0?socketid=eRzwpGv4A_-zAxnpAABB
+
+Dataset : https://www.kaggle.com/kumarajarshi/life-expectancy-who?rvi=1
+
 # Project Description:
 
 A typical Regression Machine Learning project leverages historical data to predict insights into the future. This problem statement is aimed at predicting Life Expectancy rate of a country given various features.
