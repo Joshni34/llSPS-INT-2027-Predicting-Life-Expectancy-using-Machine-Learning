@@ -6,7 +6,7 @@ Project demonstration video : https://youtu.be/fzzZ5KG2wZw
 
 Project feedback video : https://youtu.be/dKcBvBRLd6A
 
-Node-red dashboard URL : https://node-red-uyrym.eu-gb.mybluemix.net/ui/#!/0?socketid=eRzwpGv4A_-zAxnpAABB
+Node-red UI link : https://node-red-uyrym.eu-gb.mybluemix.net/ui/#!/0?socketid=eRzwpGv4A_-zAxnpAABB
 
 Dataset : https://www.kaggle.com/kumarajarshi/life-expectancy-who?rvi=1
 
